@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">I am passionate about building challenging projects and excelling in their development, and looking forward to create a mark for myself as a Frontend Developer.<br><br>- 🔭 I’m working as React Developer <br>- ⚡ In my free time I enjoy music</h3>
+<h3 align="left">I am passionate about building challenging projects and excelling in their development, and looking forward to create a mark for myself as a Frontend Developer.<br><br>- 🔭 I’m working as React Developer <br>- 🔭 I’m working as Frontend Developer<br> - 🔭 I’m working as UI Developer   <br> <br>- ⚡ In my free time I enjoy music.<br>- ⚡ In my free time I exploring new place.</h3>
 
 ###
 
@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : Working</h3>
+<h3 align="left">🔥   My Stats : Working<br>🔥</h3>
 
 ###
