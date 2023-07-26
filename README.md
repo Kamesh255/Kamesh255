@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamesh Hedau</h1>
 <h3 align="center">A passionate frontend developer & backend developer</h3>
 
-- 🔭 I’m currently working on [Smallcase-clone](https://smallcaseproject.herokuapp.com/home)
+- 🔭 I’m currently working on Hi-Lab Solution Company 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
