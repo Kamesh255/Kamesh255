@@ -46,6 +46,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : Working<br>🔥</h3>
+<h3 align="left">🔥   My Stats : Working</h3>
 
 ###
