@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">I am passionate about building challenging projects and excelling in their development, and looking forward to create a mark for myself as a Frontend Developer.<br><br>- 🔭 I’m working as React Developer <br>- 🔭 I’m working as Frontend Developer<br> - 🔭 I’m working as UI Developer   <br> <br>- ⚡ In my free time I enjoy music.<br>- ⚡ In my free time I exploring new place.</h3>
+<h3 align="left">Frontend Developer with 2.5 years of experience in building dynamic, responsive, and user-friendly web applications using modern technologies like React.js Next.js. Adept at tackling challenging tasks, crafting visually appealing UIs, and ensuring cross-device compatibility. Passionate about leveraging innovative solutions to deliver seamless user experiences and continuously improving frontend performance. Skilled in collaborating with cross-functional teams to create scalable, maintainable, and efficient web applications.<br><br>- 🔭 I’m working as React Developer <br>- 🔭 I’m working as Frontend Developer<br> - 🔭 I’m working as UI Developer   <br> <br>- ⚡ In my free time I enjoy music.<br>- ⚡ In my free time I exploring new place.</h3>
 
 ###
 
